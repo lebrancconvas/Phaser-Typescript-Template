@@ -12,4 +12,8 @@ export default class ExampleScene extends Phaser.Scene {
   create() {
 
   }
+
+  update() {
+    
+  }
 };
