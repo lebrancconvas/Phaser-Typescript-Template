@@ -14,3 +14,8 @@ footer {
   text-align: center;
   font-size: 20px;
 }
+
+footer a {
+  color: #4fa4ff;
+  text-decoration: none;
+}
