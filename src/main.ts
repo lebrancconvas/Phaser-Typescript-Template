@@ -1,5 +1,5 @@
 import { Phaser } from './phaser';
 import { config } from './config';
 
-
-export default new Phaser.Game(config);
+// Initialize Phaser.
+export default new Phaser.Game(config); 
