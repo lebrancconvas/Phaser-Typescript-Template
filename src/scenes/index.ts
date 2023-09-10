@@ -1,2 +1,5 @@
-export * from './scenes';
-export * from './scene';
+import ExampleScene from './ExampleScene';
+
+export const scenes = [
+  ExampleScene
+];
