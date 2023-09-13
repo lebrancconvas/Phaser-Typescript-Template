@@ -1,5 +1,7 @@
-import ExampleScene from './ExampleScene';
+import BootingScene from './BootingScene';
+import TitleScene from './TitleScene';
 
 export const scenes = [
-  ExampleScene
+  BootingScene,
+  TitleScene
 ];
